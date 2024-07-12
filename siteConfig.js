@@ -3,21 +3,21 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "qzdaige", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "Ben Nino Hunter", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "qzdaige", // This allows an alternative site description for meta data for pages.
+    "Ben Nino Hunter", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "qzdaige", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "Ben Nino Hunter", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "qzdaige",
+    title: "Ben Nino Huntere",
     helpText: "Keep following",
     successMessage: "Thank you The message was sent successfully",
   },
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "qzdaige",
+    title: "Ben Nino Hunter",
     description:
-      "qzdaige",
+      "Ben Nino Hunter",
   },
   twitterCard: {
     title: "",
@@ -88,10 +88,10 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "qzdaige",
+  siteTitle: "Ben Nino Hunter",
   siteDescription:
-    "qzdaige",
-  language: "he",
+    "Ben Nino Hunter",
+  language: "en",
   logoUrl: "",
   iconUrl: "",
   coverUrl: "cover.jpg",
